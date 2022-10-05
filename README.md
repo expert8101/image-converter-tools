@@ -1,2 +1,6 @@
 # image-converter-tools version 1.0
-Image converter tools by Zohaib Zeeshan. All these tools written in php.
+
+All these tools written in php with complete front end design.
+
+Installation:
+No need of database or just upload on live server or use localhost to run.
